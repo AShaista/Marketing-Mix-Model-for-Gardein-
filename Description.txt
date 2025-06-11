@@ -1,0 +1,4 @@
+This project leveraged advanced data analytics techniques to improve the market share of Conagra’s Gardein brand in the plant-based protein market. I employed trend analysis, competitor analysis, and SWOT analysis 
+to gain insights into market dynamics. I utilized segmentation analysis to categorize products by flavor and type, optimizing the marketing mix. Regression analysis was a core technique, enabling to 
+create predictive models that assessed the impact of macroeconomic factors, pricing strategies, and geographic variations on sales. These models informed targeted recommendations for pricing adjustments, 
+flavor introduction, and distribution expansion, aiming to enhance Gardein's market position.
